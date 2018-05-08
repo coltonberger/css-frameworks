@@ -1,3 +1,5 @@
+Deployed URL: http://framework_practice.surge.sh
+
 # Build a Responsive Web Page with a CSS Framework Assessment
 
 For this assessment you will be creating a basic html file and styling it with only a CSS Framework like Bootstrap or Materialize.
@@ -16,4 +18,3 @@ Your assignment must meet the following requirements:
 ![Full Screen](demo-full-screen.png)
 ![Small window](demo-crunched-down.png)
 
-Deployed URL: http://framework_practice.surge.sh
