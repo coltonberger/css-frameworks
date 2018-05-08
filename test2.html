@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>CSS Framework assessment</title>
+    <script type="text/javascript" src="index.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
     <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
   </head>
@@ -11,7 +12,7 @@
       <a class="navbar-item" href=""> <!-- add url -->
         <strong>BRAND WEBSITE</strong>
       </a>
-      <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+      <div class="navbar-burger" onclick="shrink()" data-target="navbarExampleTransparentExample">
         <span></span>
         <span></span>
         <span></span>
@@ -68,6 +69,11 @@
     </div>
   </nav>
   <body>
+    <div class="container">
+      <div class="has-text-centered">
+          <p class="title is-1 is-spaced">Title 1</p>
+      </div>
+    </div>
     <div class="tile is-ancestor">
     <div class="tile is-4 is-vertical is-parent">
       <div class="tile is-child box">
