@@ -16,4 +16,4 @@ Your assignment must meet the following requirements:
 ![Full Screen](demo-full-screen.png)
 ![Small window](demo-crunched-down.png)
 
-Deployed URL: framework_practice.surge.sh
+Deployed URL: http://framework_practice.surge.sh
